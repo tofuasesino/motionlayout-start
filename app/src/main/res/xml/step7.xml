@@ -27,7 +27,8 @@
         <!-- Fix OnSwipe by changing touchAnchorSide -->
         <OnSwipe
                 motion:touchAnchorId="@id/moon"
-                motion:touchAnchorSide="bottom"
+                motion:touchAnchorSide="right"
+                motion:dragDirection="dragRight"
         />
 
 
