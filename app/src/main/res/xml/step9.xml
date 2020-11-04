@@ -90,7 +90,7 @@
             <KeyAttribute
                     motion:framePosition="85"
                     motion:motionTarget="@id/credits"
-                    android:alpha="0.0"
+                    android:alpha="1.0"
             />
             <KeyPosition
                 motion:motionTarget="@+id/moon"

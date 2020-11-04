@@ -89,7 +89,12 @@ private val data = listOf(
         "Changes applied from step 8",
         Step8CompletedActivity::class,
         highlight = true
-    )
+    ),
+        Step("Step perzonalitzat 9",
+        "Animacio personalitzada",
+        "Aprendre a personalitzar animacions",
+            MainActivity2::class
+        )
 )
 
 class MainActivity : AppCompatActivity() {
